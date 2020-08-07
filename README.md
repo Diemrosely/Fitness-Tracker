@@ -3,4 +3,4 @@
 Deployed Link
 https://nameless-falls-28798.herokuapp.com/
 
-![Gif](Assets/fitnesstracker.gif)
+![Gif](assets/fitnesstracker.gif)
