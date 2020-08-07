@@ -22,7 +22,7 @@ mongoose.connect("mongodb://localhost/workout", {
 
 // Start server to listen to client requests
 app.use(require("./routes/api.js"));
-app.use(express.static('./Develop/public'));
+app.use(express.static('./public'));
 
 app.listen(PORT, () => {
     console.log("Now listening on port " + PORT);
