@@ -16,14 +16,14 @@ https://nameless-falls-28798.herokuapp.com/
 
 ![Gif](assets/fitnesstracker.gif)
 
-##Installation
+## Installation
 
 To run the code locally, npm install required packages.  The port is currently set to 3000 so once node server.js is successful, the console will communicate that the server listening on that port.  
 
 ```npm install```
 ```node server.js```
 
-##Collaboration 
+## Collaboration 
 Kenneth Wardlow 
 https://mongoosejs.com/docs/guide.html
 https://kb.objectrocket.com/mongo-db/how-to-install-mongoose-with-npm-1005
